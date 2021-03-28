@@ -1,4 +1,4 @@
-# Analyzing Stock with VBA and Excel
+# Analyzing Stocks with VBA and Excel
 
 ## Project Overview
 
